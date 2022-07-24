@@ -4,8 +4,8 @@ string = "Subractor"
 st.set_page_config(page_title=string)
 
 st.write("""
-# Two Number Subtraction App
-This app subtracts two number
+# Subtraction of 2 given numbers App
+This app subtracts second number from the first
 """)
 
 
